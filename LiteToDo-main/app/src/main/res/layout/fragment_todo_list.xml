@@ -7,7 +7,7 @@
     tools:context=".FragmentTodoList">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/todo_list"
+        android:id="@+id/todoList"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:listitem="@layout/todo_card_view" />
